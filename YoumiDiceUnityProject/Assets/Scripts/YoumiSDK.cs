@@ -13,6 +13,8 @@ public class YoumiSDK : MonoBehaviour
         Instance = this;
         YoumiSDKInit();
     }
+	
+	
     //TODO: 积分广告
     internal void YoumiAddOffersBarnner()
     {
